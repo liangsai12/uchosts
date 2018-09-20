@@ -4,6 +4,24 @@
 	::1	ip6-localhost
 	::1	ip6-loopback
 # Localhost (DO NOT REMOVE) End
-127.0.0.1 pageapi.zkyouxi.com
 127.0.0.1 zkyouxi.com
-
+127.0.0.1 page.zkyouxi.com
+127.0.0.1 adashx4yt.m.taobao.com
+127.0.0.1 api.c.uc.cn
+127.0.0.1 doghole.ucweb.com
+127.0.0.1 ucsec.ucweb.com
+127.0.0.1 pkg.02wan.com
+127.0.0.1 acs.m.taobao.com
+127.0.0.1 audid-api.taobao.com
+127.0.0.1 aiyoumeng.cn
+127.0.0.1 www.qchannel01.cn
+127.0.0.1 image.uczzd.cn
+127.0.0.1 image.uczzd.cn.danuoyi.tbcache.com
+127.0.0.1 ldy-yd-cdn.jedi-games.com
+127.0.0.1 mkt.4399sy.com
+127.0.0.1 sy-cdnres.unionsy.com
+127.0.0.1 b.533y.com
+127.0.0.1 tg.wodou2015.com
+127.0.0.1 wodou2015.com
+127.0.0.1 tg.7477.com
+127.0.0.1 7477.com
